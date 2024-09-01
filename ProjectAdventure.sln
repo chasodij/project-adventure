@@ -1,0 +1,21 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ProjectAdventure", "ProjectAdventure\ProjectAdventure.csproj", "{6E12BC1D-5EE0-444E-BA42-7016015B8B3F}"
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Solution Items", "Solution Items", "{816C2546-0B28-4C34-85DD-387A118919E9}"
+	ProjectSection(SolutionItems) = preProject
+		docker-compose.yml = docker-compose.yml
+	EndProjectSection
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{6E12BC1D-5EE0-444E-BA42-7016015B8B3F}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{6E12BC1D-5EE0-444E-BA42-7016015B8B3F}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{6E12BC1D-5EE0-444E-BA42-7016015B8B3F}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{6E12BC1D-5EE0-444E-BA42-7016015B8B3F}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+EndGlobal

@@ -1,0 +1,6 @@
+﻿services:
+  projectadventure:
+    image: projectadventure
+    build:
+      context: .
+      dockerfile: ProjectAdventure/Dockerfile
